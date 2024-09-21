@@ -2,11 +2,11 @@
 This repository is dedicated to exploring and implementing different development frameworks across front-end and back-end technologies. It serves as a reference for learning, experimenting, and building projects using popular frameworks.
 # 🖥️ Frameworks Repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Souravjha69/<your-repo>)
-![GitHub stars](https://img.shields.io/github/stars/Souravjha69/<your-repo>?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Souravjha69/<your-repo>?style=social)
-![License](https://img.shields.io/github/license/Souravjha69/<your-repo>)
-![Contributors](https://img.shields.io/github/contributors/Souravjha69/<your-repo>)
+![GitHub repo size](https://img.shields.io/github/repo-size/Souravjha69/Frameworks-.git)
+![GitHub stars](https://img.shields.io/github/stars/Souravjha69/Frameworks-.git?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Souravjha69/Frameworks-.git?style=social)
+![License](https://img.shields.io/github/license/Souravjha69/Frameworks-.git)
+![Contributors](https://img.shields.io/github/contributors/Souravjha69/Frameworks-.git)
 
 This repository is dedicated to exploring and implementing different development frameworks across front-end and back-end technologies. It serves as a reference for learning, experimenting, and building projects using popular frameworks.
 
